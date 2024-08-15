@@ -25,4 +25,9 @@ I'm currently passionate about web development and love working with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
 </div>
+
+### 📊 Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kocherovskiy)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
